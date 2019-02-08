@@ -1,0 +1,6 @@
+framework module Pods_CurbGenie {
+  umbrella header "Pods-CurbGenie-umbrella.h"
+
+  export *
+  module * { export * }
+}
